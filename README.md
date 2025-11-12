@@ -3,12 +3,6 @@
 
 ---
 
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMBC&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-
----
-
 <h3 align="center">🧰 Languages and Tools</h3>
 
 <p align="center"> 
@@ -22,6 +16,10 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/></a> 
 </p>
+
+<div align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMBC&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 ---
 
