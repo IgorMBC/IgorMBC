@@ -3,6 +3,12 @@
 
 ---
 
+<div align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMBC&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+
+---
+
 ### 🧰 Languages and Tools
 
 <p align="left"> 
@@ -26,8 +32,6 @@
 <a href="https://www.linkedin.com/in/igormbcavalcanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor cavalcanti" height="30" width="40" /></a>
 </p>
 
----
 
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMBC&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+
+
