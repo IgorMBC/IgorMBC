@@ -9,7 +9,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+<h3 align="center">🧰 Languages and Tools</h3>
 
 <p align="center"> 
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a> 
@@ -25,7 +25,7 @@
 
 ---
 
-### 📫 Get in Touch
+<h3 align="center">📫 Get in Touch</h3>
 
 <p align="center">
 <a href="mailto:igormbcavcalcanti@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
