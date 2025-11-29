@@ -21,6 +21,7 @@
 
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMBC&layout=compact&langs_count=16&theme=great-gatsby"/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMBC&layout=compact)
 </div>
 
 ---
